@@ -30,8 +30,8 @@ accelerate>=0.20.0
 
 ### Option 1: Automatic Installation
 ```bash
-git clone <repository-url>
-cd natural-language-to-python-converter
+git clone https://github.com/Krypto-Hashers-Community/Natural-language-to-Python-automation
+cd Natural-language-to-Python-automation
 pip install -r requirements.txt
 ```
 
