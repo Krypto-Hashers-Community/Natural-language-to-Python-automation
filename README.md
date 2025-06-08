@@ -2,6 +2,8 @@
 
 A Python implementation for converting natural language descriptions into Python code using fine-tuned StarCoder2 and CodeT5 models.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/PATH/TO/NOTEBOOK.ipynb)
+
 ## 🚀 Features
 
 * **Dual Model Support**: Works with both StarCoder2 (open-access) and CodeT5 models
