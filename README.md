@@ -2,7 +2,7 @@
 
 A Python implementation for converting natural language descriptions into Python code using fine-tuned StarCoder2 and CodeT5 models.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/#scrollTo=QR3edPDqMoks&fileId=https%3A//huggingface.co/bigcode/starcoder.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bzZc-QlamC3n1c2CVx3i3aIroooOlQPJ)
 
 ## 🚀 Features
 
